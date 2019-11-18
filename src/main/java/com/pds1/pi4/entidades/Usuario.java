@@ -47,7 +47,6 @@ private static final long serialVersionUID = 1L;
 		this.nome = nome;
 		this.email = email;
 		this.senha = senha;
-		
 	}
 
 	public Long getId() {
